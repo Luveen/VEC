@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/* this is from Home.php */
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-nav{
+    padding-top: 50px;
+}
+.navbar-nav a{
+    padding-left: 30px;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+}
+.form-inline {
+    padding-top: 41px;
+   
+}
+.form-inline input{
+    margin-left: 250px;
+    
+}

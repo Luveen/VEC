@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.headline h1{
+    margin-top: 50px;
+    font-weight: bold;
+}
+.logo img{
+    width: 12%;
+    padding-top: 2%;
+}
+.lhead h1{
+    font-weight: bold;
+    padding-top: 5px;
+
+}
+.crad{
+    margin-left: 33%;
+    padding-top:20px;
+    line-height: 30px;
+}
+.crad input{
+    width: 52%;
+    outline: 0;
+    border-width: 0 0 2px;
+    background-color:transparent;
+}
+.crad label{
+    font-size: 20px;
+}
+.lbtn{
+    padding-top: 20%;
+}
+.crad button{
+    margin-top: 20px;
+    margin-left: 100px;
+    padding: 6px 80px;
+    border: none;
+    color: white;
+    background-color: rgb(24, 2, 146);
+    border-radius: 4px;
+}
+.signuplink{
+    margin-left: 17%;
+    
+}
+.signuplink a{
+   font-weight: bolder;
+   color: blue;
+}
+
+
+/* 
+this is from create page  */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+#right-content{
+    background-color: #030d9e;
+    height:671px;
+    color: white;
+}
+.stclogo{
+    padding-top: 75px;
+}
+.stclogo img{
+    width: 20%;
+}
+.rcon h1{
+    font-weight: bolder;
+    color: rgb(250, 250, 250);
+    padding-top: 30px;
+    line-height: 8px;
+    clear: both;
+}
+
+.left-content h1{
+    font-weight: bolder;
+    padding-top: 50px;
+}
+.left-content h1 span{
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.left-content input{
+    
+    height: 40px;
+    text-decoration: none;
+    border: 1px solid #ccc;
+    
+}
+#Left-con input{
+    width: 80%;
+}
+#radiobtn input{
+    clear: both;
+    width:20%;
+    margin-top: 30px;
+}
+.formcon{
+    padding-left: 20%; 
+    padding-top: 20px;
+}
+
+.subbut button{
+    margin-top: 50px;
+    margin-left: 15%;
+    padding: 5px 80px;
+    border: none;
+    color: white;
+    background-color: rgb(24, 2, 146);
+    border-radius: 4px;
+}
+
+.radiobtns input{
+    height: 10px;
+}
+.note{
+    margin-left: 10%;
+}
+.note span {
+    color: #030d9e;
+}
+.loginlink{
+    margin-left: 28%;
+    padding-top: 1%;
+}
+.loginlink a{
+    font-weight: bolder;
+    color: blue;
+}
+
+/* this is from home page */
+.homelogo{
+    width: 10%;
+}
